@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+node_modules/
+libs/
+static/jslibs
+.DS_Store
